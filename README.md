@@ -27,20 +27,4 @@ Cross-validation was applied with the CNN architecture to enhance performance.
 ## Note
 This project aims to detect TOR network usage using deep learning techniques. The implementation includes detailed preprocessing steps and model training procedures to achieve reliable detection.
 
-## How to Run
-1. Clone the repository.
-2. Install the required dependencies.
-3. Follow the preprocessing steps as described.
-4. Train the models using the provided scripts.
 
-## Requirements
-- Python 3.x
-- TensorFlow
-- Keras
-- NumPy
-- Pandas
-- Scikit-learn
-
-## Installation
-```bash
-pip install -r requirements.txt
